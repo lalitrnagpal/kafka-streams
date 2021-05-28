@@ -1,0 +1,7 @@
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\serde\JsonDeserializer.java
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\types\LineItem.java
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\serde\AppSerdes.java
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\serde\JsonSerializer.java
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\types\DeliveryAddress.java
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\types\PosInvoice.java
+D:\2-Workspace\kafka-streaming\13-json-to-pojo\src\main\java\guru\learningjournal\kafka\examples\types\Invoice.java
